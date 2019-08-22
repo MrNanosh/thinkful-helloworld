@@ -1,0 +1,37 @@
+body{
+    color: rosybrown;
+    background-color: teal;
+    margin: 20px;
+}
+div{
+    background-color: bisque;
+
+}
+p{
+    background-color: antiquewhite;
+    color: indianred;
+}
+li{
+    color: darkslategray;
+}
+h6{
+    font-size: 1.7em;
+}
+.thinglist{
+    size: .5em;
+}
+#list1{
+    color: darkolivegreen;
+}
+#list2{
+    color: aquamarine;
+}
+#firstthing{
+    color: deeppink;
+    size: 1em;
+}
+#secondthing{
+    color: mistyrose;
+    background-color: indigo;
+    size: 2em;
+}
